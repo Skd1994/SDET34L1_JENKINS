@@ -1,4 +1,4 @@
-package com.vtiger.contactsTest;
+package com.testjenkinsTest;
 
 import org.testng.annotations.Test;
 

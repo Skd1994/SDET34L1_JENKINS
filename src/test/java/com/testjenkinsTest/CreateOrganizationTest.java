@@ -1,4 +1,4 @@
-package com.vtiger.organizationTest;
+package com.testjenkinsTest;
 
 import org.testng.annotations.Test;
 
